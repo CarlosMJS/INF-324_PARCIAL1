@@ -1,0 +1,18 @@
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ejercicio_7_inf_324_examen.Properties.Resources.resources
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ej7.csproj.GenerateResource.Cache
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ejercicio_7_inf_324_examen.exe
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\bin\Debug\Ejercicio_7_inf_324_examen.exe.config
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\bin\Debug\Ejercicio_7_inf_324_examen.exe
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\bin\Debug\Ejercicio_7_inf_324_examen.pdb
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ejercicio_7_inf_324_examen.pdb
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ej7.Form1.resources
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\bin\Debug\Ej7.exe.config
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ej7.csprojResolveAssemblyReference.cache
+C:\Users\Carlitos JS\Desktop\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ej7.Properties.Resources.resources
+C:\Users\Carlitos JS\Documents\Visual Studio 2012\Projects\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\bin\Debug\Ejercicio_7_inf_324_examen.exe.config
+C:\Users\Carlitos JS\Documents\Visual Studio 2012\Projects\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ejercicio_7_inf_324_examen.exe
+C:\Users\Carlitos JS\Documents\Visual Studio 2012\Projects\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ejercicio_7_inf_324_examen.pdb
+C:\Users\Carlitos JS\Documents\Visual Studio 2012\Projects\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ej7.csprojResolveAssemblyReference.cache
+C:\Users\Carlitos JS\Documents\Visual Studio 2012\Projects\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ej7.Form1.resources
+C:\Users\Carlitos JS\Documents\Visual Studio 2012\Projects\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ejercicio_7_inf_324_examen.Properties.Resources.resources
+C:\Users\Carlitos JS\Documents\Visual Studio 2012\Projects\Ejercicio_7_inf_324_examen\Ejercicio_7_inf_324_examen\obj\Debug\Ej7.csproj.GenerateResource.Cache
